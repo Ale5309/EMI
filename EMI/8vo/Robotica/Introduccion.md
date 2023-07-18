@@ -21,3 +21,10 @@
 3. Energia -> Electricidad.
 4. Materiales -> Mecanica. 
 
+---
+
+## Partes de los robots
+* Brazos <-> Activadores
+* Sentidos <-> Sensores
+* Cerebro <-> Procesador
+* Esqueleto <-> Estructura
