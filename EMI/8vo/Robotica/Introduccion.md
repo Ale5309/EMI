@@ -1,4 +1,15 @@
-# Conceptos Generales de Robotica
+# ROBOTICA
+
+## ***Indice***
+* Robotica
+* Robot 
+* Materias para la Robotica
+* Partes de la Robotica
+* Percepcion
+* Historia de la Robotica
+* Materiales
+
+## Conceptos Generales de Robotica
 
 *ROBOTICA*
 - Area encargada del estudio de los robots 
